@@ -10,10 +10,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- *
- * @author anderson
- */
+
 public class Licencia_limitada_dia extends Licencia_limitada{
     protected final int limiteDia;
     protected int transDia;

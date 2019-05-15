@@ -8,10 +8,7 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.UUID;
 
-/**
- *
- * @author anderson
- */
+
  public abstract class Licencia {
     protected final String email;
     protected final LocalDate fechaCracion;

@@ -8,10 +8,7 @@ package gestion.de.fechas;
 import java.time.LocalDate;
 import java.util.ArrayList;
 
-/**
- *
- * @author anderson
- */
+
 public class GestionDeFechas {
 
     /**

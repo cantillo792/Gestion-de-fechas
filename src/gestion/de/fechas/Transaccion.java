@@ -7,10 +7,6 @@ package gestion.de.fechas;
 
 import java.time.LocalDate;
 
-/**
- *
- * @author anderson
- */
 public class Transaccion {
     private final String Codigolicencia;
     private final LocalDate fechaCracion;
